@@ -1,0 +1,12 @@
+com/company/configuration/WebConfig.java
+ com.company.configuration.WebConfig
+com/company/configuration/AppConfig.java
+ com.company.configuration.AppConfig
+com/company/security/SecurityAppConfig.java
+ com.company.security.SecurityAppConfig
+com/company/configuration/CustomSuccessHandler.java
+ com.company.configuration.CustomSuccessHandler
+com/company/security/SecurityWebConfig.java
+ com.company.security.SecurityWebConfig
+com/company/controller/SecurityController.java
+ com.company.controller.SecurityController
